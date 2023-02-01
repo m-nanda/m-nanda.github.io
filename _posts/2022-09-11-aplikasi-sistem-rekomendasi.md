@@ -2,7 +2,7 @@
 layout: post
 title:  "Sistem Rekomendasi Mata Kuliah Pilihan"
 date:   2022-09-11
-excerpt: "Implementasi sistem rekomendasi pada kasus penentuan mata kuliah pada prodi matematika its"
+excerpt: "Mengembangkan sistem rekomendasi mata kuliah pilihan yang dipersonalisasi untuk salah satu program studi di perguruan tinggi di Indonesia. Tujuannya adalah menyelaraskan mata kuliah pilihan yang direkomendasikan dengan mata kuliah pilihan sebelumnya. Dimana ada tiga opsi rumpun utama yang tersedia untuk rekomendasi mata kuluah pilihan yang dipersonalisasi. Hasil uji rekomendasi sangat mengesankan, diukur dengan metrik akurasi yang mencapai 80%"
 project: true
 tag:
 - System Recommendation
@@ -11,6 +11,7 @@ tag:
 - Cosine
 - Nearest Neighbor
 - Applied Machine Learning
+- Python
 comments: true
 ---
 

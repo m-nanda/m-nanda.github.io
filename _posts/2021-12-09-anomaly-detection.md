@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "NLP Web Application"
+title:  "Anomaly Detection"
 date:   2021-12-09
-excerpt: "NLP application use case with TensorFlow framework"
+excerpt: "Utilized data mining techniques to proactively prevent unscheduled machine breakdowns. By analyzing sensor data, detecting anomalies and clustering similar patterns, I successfully implemented a solution that triggers proactive maintenance alerts, leading to improved machine uptime and reduced maintenance costs. This innovative approach was inspired by a leading publication in the field, showcasing my expertise in data analysis and problem-solving skills"
 project: true
 tag:
 - Condition Based Maintenance
@@ -11,6 +11,8 @@ tag:
 - Pattern Anomaly
 - Alert
 - Machine Learning
+- Python
+- Data Analytics
 comments: true
 ---
 

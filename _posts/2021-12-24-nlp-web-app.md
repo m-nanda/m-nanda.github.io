@@ -2,7 +2,7 @@
 layout: post
 title:  "NLP Web Application"
 date:   2021-12-24
-excerpt: "NLP application use case with TensorFlow framework"
+excerpt: "Developed an effective news topic classification model by utilizing exploratory data analysis to construct assumptions and questions, and utilizing a bidirectional LSTM layer and early stopping technique to handle sequential data. Achieved an accuracy metric of 99% in 5 epochs, both in the train and test sets, demonstrating expertise in machine learning and data analysis."
 project: true
 tag:
 - Natural Language Processing (NLP)
@@ -11,6 +11,8 @@ tag:
 - TensorFlow
 - Streamlit
 - Machine Learning
+- Python
+- Data Analytics
 comments: true
 ---
 
