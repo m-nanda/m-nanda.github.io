@@ -2,7 +2,7 @@
 layout: post
 title:  "Sistem Rekomendasi Mata Kuliah Pilihan"
 date:   2022-09-11
-excerpt: "Mengembangkan sistem rekomendasi mata kuliah pilihan yang dipersonalisasi untuk salah satu program studi di perguruan tinggi di Indonesia. Tujuannya adalah menyelaraskan mata kuliah pilihan yang direkomendasikan dengan mata kuliah pilihan sebelumnya. Dimana ada tiga opsi rumpun utama yang tersedia untuk rekomendasi mata kuluah pilihan yang dipersonalisasi. Hasil uji rekomendasi sangat mengesankan, diukur dengan metrik akurasi yang mencapai 80%"
+excerpt: "Mengembangkan sistem rekomendasi mata kuliah pilihan yang dipersonalisasi untuk salah satu program studi di perguruan tinggi di Indonesia. Tujuannya adalah menyelaraskan mata kuliah pilihan yang direkomendasikan dengan mata kuliah pilihan sebelumnya. Dimana ada tiga opsi rumpun utama yang tersedia untuk rekomendasi mata kuluah pilihan yang dipersonalisasi. Hasil uji rekomendasi sangat mengesankan, diukur dengan metrik akurasi yang mencapai 80%."
 project: true
 tag:
 - System Recommendation
@@ -155,4 +155,6 @@ Dari project yang telah dilakukan, dari data publik historis pengambilan mata ku
 
 [2] Syahrul, A., & Solichin, A. (2022). Rekomendasi Pemilihan Mata Kuliah Dalam Pengisian Rencana Studi Mahasiswa dengan Penerapan Algoritma Apriori. Jurnal ELTIKOM : Jurnal Teknik Elektro, Teknologi Informasi Dan Komputer, 6(1), 79–88. https://doi.org/10.31961/eltikom.v6i1.549
 
-[3] Wang, H., & Yu, G. (2016, March). Persomalized recommendation system K-neighbor algorithm optimization. In 2015 1st International Conference on Information Technologies in Education and Learning (icitel-15) (pp. 105-108). Atlantis Press.
+[3] Wang, H., & Yu, G. (2016, March). Persomalized recommendation system K-neighbor algorithm optimization. In 2015 1st International Conference on Information Technologies in Education and Learning (icitel-15) (pp. 105-108). Atlantis Press.  
+
+[`Go to repo >>`](https://github.com/m-nanda/matpil-sysrec)

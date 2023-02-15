@@ -35,7 +35,7 @@ Highly motivated and enthusiastic data scientist with 1 year of experience and a
 
 # Publication  
 * Iqbal, M., **Setiawan, M. N.**, Irawan, M. I., Khalif, K. M. N. K., Muhammad, N., & Aziz, M. K. B. M. (2022). Cardiovascular disease detection from high utility rare rule mining. Artificial Intelligence in Medicine, 131(102347), 102347. [doi.org:10.1016/j.artmed.2022.102347](https://doi.org/10.1016/j.artmed.2022.102347).  
-* Palembiya R.A., **Setiawan M.N.**, Gultom E.O., Prayitno A.S.D., Kurniati N., Iqbal M. (2021) A Smart Predictive Maintenance Scheme for Classifying Diagnostic and Prognostic Statuses. In: Mohamed A., Yap B.W., Zain J.M., Berry M.W. (eds) Soft Computing in Data Science. SCDS 2021. Communications in Computer and Information Science, vol 1489. Springer, Singapore. [doi:10.1007/978-981-16-7334-4_8](https://doi.org/10.1007/978-981-16-7334-4_8).  
+* Palembiya, R. A., **Setiawan, M. N.**, Gultom, E. O., Prayitno, A. S. D., Kurniati, N., Iqbal, M. (2021). A Smart Predictive Maintenance Scheme for Classifying Diagnostic and Prognostic Statuses. In: Mohamed A., Yap B.W., Zain J.M., Berry M.W. (eds) Soft Computing in Data Science. SCDS 2021. Communications in Computer and Information Science, vol 1489. Springer, Singapore. [doi:10.1007/978-981-16-7334-4_8](https://doi.org/10.1007/978-981-16-7334-4_8).  
 
 ---
 
