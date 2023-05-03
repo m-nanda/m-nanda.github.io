@@ -6,11 +6,15 @@ date: 2023-01-31
 comments: false
 ---
     
-Highly motivated and enthusiastic data scientist with 1 year of experience and a strong background in research and data analysis. Adept in using Python for various machine learning tasks and data visualization. Passionate about uncovering patterns and insights from data and communicating these findings in a clear and effective manner. Skilled in image editing and visualization, and always eager to continue learning and exploring end-to-end data solutions. Looking for opportunities to grow and make impact in a dynamic and fast-paced environment.
+Highly motivated and enthusiastic data scientist with 2 year of experience and a strong background in research and data analysis. Adept in using Python for various machine learning tasks and data visualization. Passionate about uncovering patterns and insights from data and communicating these findings in a clear and effective manner. Skilled in image editing and visualization, and always eager to continue learning and exploring end-to-end data solutions. Looking for opportunities to grow and make impact in a dynamic and fast-paced environment.
 
 --- 
 
 # Experience  
+
+#### Instructor – Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka | February 2023 - Now
+*	Create a positive and engaging learning environment that encourages participation by utilizing hands-on examples, demos, and discussions to ensure effective learning.  
+*	Received high ratings on management time in teaching sessions from participant feedback.  
 
 #### Data Scientist - PT Sarana Maju Lestari (SML) | February 2022 - Now  
 * Key player in ensuring data quality and delivering valuable insights to stakeholders through data analysis and reporting
@@ -41,6 +45,7 @@ Highly motivated and enthusiastic data scientist with 1 year of experience and a
 
 # Certification  
 
+* [Certified Data Engineer Program](https://credsverse.com/credentials/8b9b2a9d-7565-49a9-840a-d09ef83e3845), Narasio Data (Jan 2023).  
 * [Analitik Data Google](https://www.credly.com/badges/7fe3ea61-2648-43b9-98a5-5f805745e849/linked_in_profile), Coursera (Dec 2022).  
 * [Machine Learning Terapan](https://www.dicoding.com/certificates/0LZ01LK3KP65), Dicoding (Sep 2022 - Sep 2025).
 * [Google Cloud Digital Leader](https://www.credential.net/b1cfa603-79f3-4a68-a7be-9d5e4b4026c5), Google (Apr 2022 - Apr 2025).  
