@@ -12,7 +12,7 @@ Highly motivated and enthusiastic data scientist with 2 year of experience and a
 
 # Experience  
 
-#### Instructor – Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka | February 2023 - Now
+#### Tech Instructor – Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka | February 2023 - Now
 *	Create a positive and engaging learning environment that encourages participation by utilizing hands-on examples, demos, and discussions to ensure effective learning.  
 *	Received high ratings on management time in teaching sessions from participant feedback.  
 
@@ -24,7 +24,7 @@ Highly motivated and enthusiastic data scientist with 2 year of experience and a
 #### Research Assistant - Matematika ITS | March 2021 - January 2022  
 * Successfully supported research team by contributing to the technical aspect of projects through expert coding and data visualization skills. Created visually appealing and informative reports and discussion materials that effectively communicated insights and findings to stakeholders, driving key decision-making and contributing to team success.
  
-#### Head of Administration - Kopma dr. Angka ITS | February 2020 - February 2022  
+#### Head of Administration - Kopma dr. Angka ITS | February 2020 - February 2021  
 * Led the administration department as Head of Department, successfully simplifying administration services through the integration of IT and programming, and effectively training and preparing department personnel to adapt to these changes.
 * Streamlined data processing and management, reducing the time required from tens of minutes to just a few through the use of advanced Excel formulas and Python scripts.
 * Demonstrated exceptional technical skills by developing a dynamic email delivery automation system using Python and Google App Script, enabling confidential internal information to be delivered to members and member data to be updated efficiently.
