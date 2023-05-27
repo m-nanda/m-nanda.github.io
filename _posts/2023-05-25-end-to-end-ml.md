@@ -38,8 +38,8 @@ The objective of this project is:
 
 The repository contains the following files and directories:  
 
-- `https://raw.githubusercontent.com/m-nanda/End-to-End-ML/main/img/`: A directory containing supported images for README.md.
-- `https://raw.githubusercontent.com/m-nanda/End-to-End-ML/main/result/`: A directory containing the result from the pipeline.
+- `img/`: A directory containing supported images for README.md.
+- `result/`: A directory containing the result from the pipeline.
 - `README.md`: A markdown file describing the project
 - `pipeline.py`:  Python script that contains process in the development stage.
 - `auth.py`:  Python script to build authentication service.
@@ -246,13 +246,19 @@ To use this project, follow these steps:
 
 3. Machine Learning Prediction
    To test the API, you can open the endpoint from the terminal with a token in the headers:
-     - `curl -X POST -H "Auth: <token>" http://localhost:5002/v1/predict/realtime/5.84/3.05/3.75/6`  
+     - Machine learning API 1
+     ```bash
+     curl -X POST -H "Auth: <token>" http://localhost:5002/v1/predict/realtime/5.84/3.05/3.75/6
+     ```  
 
      | ![predict realtime](https://raw.githubusercontent.com/m-nanda/End-to-End-ML/main/img/ml_api1_test.jpg) |  
      | :--: |  
      | Image 7: ML API Result in Terminal (`v1/predict/realtime/`'s route) |
 
-     - `curl -X POST -H "Auth: <token>" http://localhost:5002/v1/predict/by_index/5`  
+     - Machine learning API 2
+     ```bash
+     curl -X POST -H "Auth: <token>" http://localhost:5002/v1/predict/by_index/5
+     ```  
 
      | ![predict by index](https://raw.githubusercontent.com/m-nanda/End-to-End-ML/main/img/ml_api2_test.jpg) |
      | :--: |  
